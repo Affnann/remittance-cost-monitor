@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# World Bank complete file (about 50 MB), downloaded by code/01_download.py
+data/raw/

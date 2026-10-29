@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "remittance-cost-monitor: The cost of sending money to Bangladesh, 2011-2025"
+authors:
+  - family-names: "Azom"
+    given-names: "Kazi Affnann"
+    orcid: "https://orcid.org/0009-0001-5998-7642"
+date-released: "2026-10-29"
+repository-code: "https://github.com/Affnann/remittance-cost-monitor"
+license: MIT
+keywords:
+  - remittances
+  - migrant workers
+  - Bangladesh
+  - remittance costs
+  - financial inclusion
